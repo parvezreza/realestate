@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+.filter
+{
+	float:left;
+	width:98%;
+	margin:5px 1%;
+}
+.filter .input {width:150px; height:12px; margin:0px 0px}
+.filter select {height:20px; width:150px; background: url(input-bg.gif) top left repeat-x #f6f6f6; border:1px solid #cccccc;}
+.filter-table
+{
+	float:left;
+	width:98%;
+	margin:0 1%;
+}
