@@ -17,7 +17,7 @@
 		padding:6px 0 0px 0;
 	}
 	table{
-		border-collapse:collapse;ggggg
+		border-collapse:collapse;
 	}
 </style>
 
